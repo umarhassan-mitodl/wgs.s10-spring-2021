@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Social Medicine"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "ee32d222-ed90-8b19-0078-499d44c4ca91",
+  "instructors": {
+    "content": [
+      "e039595a-95e0-83a3-2856-c09f7d653c99"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ab9fee22-1168-801d-4d31-29c9f06437d2",
+    "website": "wgs-s10-black-feminist-health-science-studies-spring-2021"
+  },
+  "course_title": "Black Feminist Health Science Studies",
+  "course_description": "Black feminist health science studies is a critical intervention into a number of intersecting arenas of scholarship and activism, including feminist health studies, contemporary medical curriculum reform conversations, and feminist technoscience studies. We argue towards a theory of Black feminist health science studies that builds on social justice science, which has as its focus the health and well-being of marginalized groups. Students will engage feminist science theories such as the linguistic metaphors of the immune system, the medicalization of race, and critiques of the sexual binary. We will use contemporary as well as historical moments to investigate the evolution of \u201cscientific truth\u201d and its impact on the U.S. cultural landscape.\n",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.S10",
+  "course_image_thumbnail": {
+    "content": "13777f8b-158c-e1f3-b88e-4d2a55e267f2",
+    "website": "wgs-s10-black-feminist-health-science-studies-spring-2021"
+  },
+  "learning_resource_types": [
+    "Media Assignments with Examples"
+  ],
+  "site_uid": "c7a029a5-722d-4a74-8c9a-2afd7fe14e11",
+  "site_short_id": "wgs.s10-spring-2021",
+  "site_url_path": "courses/wgs-s10-black-feminist-health-science-studies-spring-2021",
+  "title": "Course Metadata"
+}
