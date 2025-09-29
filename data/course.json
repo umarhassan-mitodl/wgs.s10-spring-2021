@@ -35,6 +35,7 @@
     "website": "wgs-s10-black-feminist-health-science-studies-spring-2021"
   },
   "course_title": "Black Feminist Health Science Studies",
+  "hide_download": true,
   "course_description": "Black feminist health science studies is a critical intervention into a number of intersecting arenas of scholarship and activism, including feminist health studies, contemporary medical curriculum reform conversations, and feminist technoscience studies. We argue towards a theory of Black feminist health science studies that builds on social justice science, which has as its focus the health and well-being of marginalized groups. Students will engage feminist science theories such as the linguistic metaphors of the immune system, the medicalization of race, and critiques of the sexual binary. We will use contemporary as well as historical moments to investigate the evolution of \u201cscientific truth\u201d and its impact on the U.S. cultural landscape.\n",
   "department_numbers": [
     "WGS"
@@ -45,6 +46,7 @@
     "content": "13777f8b-158c-e1f3-b88e-4d2a55e267f2",
     "website": "wgs-s10-black-feminist-health-science-studies-spring-2021"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Media Assignments with Examples"
   ],

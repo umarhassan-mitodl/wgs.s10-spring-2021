@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes general information about the course including
   the course description, course text, and the grading policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +28,7 @@ Black feminist health science studies is a critical intervention into a number o
 About the Instructor
 --------------------
 
-Moya Bailey was an {{% resource_link "4a8ea92f-353e-4909-a786-27c35c31be97" "MLK Visiting Professor" %}} at MIT for 2020–2021. Dr. Bailey is a scholar of critical race, feminist, and disability studies. Her work focuses on marginalized groups’ use of digital media to promote social justice as acts of self-affirmation and health promotion. She is interested in how race, gender, and sexuality are represented in media and medicine. She currently curates the {{% resource_link "5d26239f-92bf-4b5f-b6fa-d89b03d7b95d" "#transformDH" %}} Tumblr initiative in Digital Humanities. She is also the digital alchemist for the {{% resource_link "a55e6d98-bcf6-4b20-abd3-3b6c03a3d477" "Octavia E. Butler Legacy Network" %}}.
+Moya Bailey was an [MLK Visiting Professor](https://mlkscholars.mit.edu/scholars/moya-z-bailey) at MIT for 2020–2021. Dr. Bailey is a scholar of critical race, feminist, and disability studies. Her work focuses on marginalized groups’ use of digital media to promote social justice as acts of self-affirmation and health promotion. She is interested in how race, gender, and sexuality are represented in media and medicine. She currently curates the [#transformDH](https://transformdh.org/) Tumblr initiative in Digital Humanities. She is also the digital alchemist for the [Octavia E. Butler Legacy Network](http://octaviabutlerlegacy.com/).
 
 Goals and Objectives
 --------------------
@@ -41,9 +43,9 @@ Students will:
 Required Texts
 --------------
 
-Petry, Ann. _The Street_. Mariner Books, 1998. ISBN: ‎9780395901496. \[Preview with {{% resource_link "85be4815-a894-46fb-9c5d-df53100fb827" "Google Books" %}}\]
+Petry, Ann. _The Street_. Mariner Books, 1998. ISBN: ‎9780395901496. \[Preview with [Google Books](https://www.google.com/books/edition/The_Street/VZmPAAAAQBAJ?hl=en&gbpv=1)\]
 
-Roberts, Dorothy. _Fatal Invention: How Science, Politics, and Big Business Re-create Race in the Twenty-first Century_. The New Press, 2012. ISBN: ‎9781595588340. \[Preview with {{% resource_link "21427091-bf43-46f9-833e-df7fbed5e225" "Google Books" %}}\]
+Roberts, Dorothy. _Fatal Invention: How Science, Politics, and Big Business Re-create Race in the Twenty-first Century_. The New Press, 2012. ISBN: ‎9781595588340. \[Preview with [Google Books](https://www.google.com/books/edition/Fatal_Invention/yb7xxeSczFYC?hl=en&gbpv=1)\]
 
 For additional readings, see the {{% resource_link faba7fca-0347-13f7-3b10-3ae0a3045d75 "Readings" %}} section.
 
